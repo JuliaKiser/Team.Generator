@@ -119,7 +119,7 @@ function addEmployee() {
                     break;
 
                 default:
-                    writeToFile("output/index.html", team);
+                    writeToFile("./output/index.html", team);
             }
         })
 }
@@ -133,7 +133,7 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {
+function generateTeam() {
     inquirer
         .prompt(managerInput)
         .then((answers) => {
@@ -146,4 +146,4 @@ function init() {
 }
 
 // Function call to initialize app
-init();
+generateTeam();
