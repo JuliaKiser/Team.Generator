@@ -119,13 +119,14 @@ function addEmployee() {
                     break;
 
                 default:
-                    writeToFile("./output/index.html", team);
+                    writeToFile("test.html", team);
             }
         })
 }
 
-// TODO: Create a function to write README file
+// TODO: Create a function to write file
 function writeToFile(fileName, data) {
+    console.log(createTeam(data));
 
     fs.writeFile(fileName, createTeam(data), (err) =>
         err ? console.error(err) : console.log('Success!')
