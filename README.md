@@ -9,7 +9,7 @@
 
 ## Note Taker Links
 
-Deployed Link: https://juliakiser.github.io/Note_Taker/
+Deployed Link: https://juliakiser.github.io/Team.Generator/
 
 Github Repo Link: https://github.com/JuliaKiser/Team.Generator
 
