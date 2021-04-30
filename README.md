@@ -7,7 +7,7 @@
 3. [Demo Video](##Demo-Video)
 4. [Acceptance Criteria](##Acceptance-Criteria)
 
-## Note Taker Links
+## Team Generator Links
 
 Deployed Link: https://juliakiser.github.io/Team.Generator/
 
