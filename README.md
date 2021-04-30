@@ -19,7 +19,7 @@ This web application allows the user to create, modify and delete notes. It util
 
 ## Demo Video
 
-![Note Taker Demo](./Assets/Notes.gif)
+![Note Taker Demo](./Assets/TeamGen.gif)
 
 ## Acceptance Criteria
 
