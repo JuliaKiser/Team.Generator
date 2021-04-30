@@ -11,7 +11,7 @@
 
 Deployed Link: https://juliakiser.github.io/Note_Taker/
 
-Github Repo Link: https://github.com/JuliaKiser/Note_Taker
+Github Repo Link: https://github.com/JuliaKiser/Team.Generator
 
 ## Webpage Details
 
