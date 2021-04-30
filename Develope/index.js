@@ -119,7 +119,7 @@ function addEmployee() {
                     break;
 
                 default:
-                    writeToFile("test.html", team);
+                    writeToFile("output/output.html", team);
             }
         })
 }
